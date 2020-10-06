@@ -1,0 +1,57 @@
+body
+{
+    color: firebrick;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#container
+
+{
+    width: 80%;
+    text-align: left;
+    border: 1px solid darkblue;
+    margin: 0 auto;
+    padding: 0;
+}
+
+
+#post
+{
+    width: 70%;
+    padding: 0cm;
+    text-align: left;
+    margin: 0 ;
+}
+
+#post h1
+{
+    font-size: 15px;
+    color: indigo;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+#post p
+{
+    color: lime;
+    font-family: sans-serif;
+}
+
+#cabecera
+{
+    background-color: green;
+    text-align: left;
+    margin: 0;
+    padding: 0.5em;
+    box-shadow: 0px 0px 25px 0px rgba(0,0,0,0.33);
+}
+
+#cabecera h1
+{
+    font-size: 30px;
+    color:  gold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+
+
